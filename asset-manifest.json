@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LinktreeClone/static/css/main.42bc978a.css",
+    "main.js": "/LinktreeClone/static/js/main.802d12d6.js",
+    "static/js/787.e4be6a14.chunk.js": "/LinktreeClone/static/js/787.e4be6a14.chunk.js",
+    "static/media/perfil_img.png": "/LinktreeClone/static/media/perfil_img.9bd4c652c96f5e6ccd93.png",
+    "index.html": "/LinktreeClone/index.html",
+    "main.42bc978a.css.map": "/LinktreeClone/static/css/main.42bc978a.css.map",
+    "main.802d12d6.js.map": "/LinktreeClone/static/js/main.802d12d6.js.map",
+    "787.e4be6a14.chunk.js.map": "/LinktreeClone/static/js/787.e4be6a14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42bc978a.css",
+    "static/js/main.802d12d6.js"
+  ]
+}
