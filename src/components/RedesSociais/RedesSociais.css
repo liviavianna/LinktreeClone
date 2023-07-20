@@ -1,0 +1,35 @@
+a {
+    display: flex;
+    text-decoration: none;
+    color: var(--cor-terciaria);
+    background-color: var(--cor-secundaria);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 1.1em;
+    padding: 15px;
+    position: relative;
+    margin: 15px;
+    transition: 0.2s ease-in ;
+}
+a:hover {
+    transform: scale(1.03);
+}
+.conteudo_links {
+    max-width: 700px;
+    margin: auto;
+}
+.copy_link {
+    width: 35px;
+    height: 35px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: #1c1c1d;
+    background-image: url('../../assets/copy_icon.svg');
+    background-size: 21px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
