@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/LinktreeClone/static/css/main.42bc978a.css",
-    "main.js": "/LinktreeClone/static/js/main.802d12d6.js",
-    "static/js/787.e4be6a14.chunk.js": "/LinktreeClone/static/js/787.e4be6a14.chunk.js",
-    "static/media/perfil_img.png": "/LinktreeClone/static/media/perfil_img.9bd4c652c96f5e6ccd93.png",
+    "main.css": "/LinktreeClone/static/css/main.a6361fa8.css",
+    "main.js": "/LinktreeClone/static/js/main.1dd1cbe1.js",
+    "static/js/787.599b8239.chunk.js": "/LinktreeClone/static/js/787.599b8239.chunk.js",
+    "static/media/discord_icon.svg": "/LinktreeClone/static/media/discord_icon.7ab6fb891a418dd01dc1096fd2bf1899.svg",
+    "static/media/twitter_icon.svg": "/LinktreeClone/static/media/twitter_icon.ae3c323e7c3fb796a8cfc5905dea2daa.svg",
+    "static/media/tiktok_icon.svg": "/LinktreeClone/static/media/tiktok_icon.70e4b1eb8e386fc490e0d2ed49641bc5.svg",
+    "static/media/copy_icon.svg": "/LinktreeClone/static/media/copy_icon.a338f891dd24fcf29ed8.svg",
+    "static/media/yt_icon.svg": "/LinktreeClone/static/media/yt_icon.4ac0cc68f2631724b73c35eeec30d6bf.svg",
+    "static/media/instagram_icon.svg": "/LinktreeClone/static/media/instagram_icon.ab7eccfd80cc35ddcbd1916a9f9b37e7.svg",
     "index.html": "/LinktreeClone/index.html",
-    "main.42bc978a.css.map": "/LinktreeClone/static/css/main.42bc978a.css.map",
-    "main.802d12d6.js.map": "/LinktreeClone/static/js/main.802d12d6.js.map",
-    "787.e4be6a14.chunk.js.map": "/LinktreeClone/static/js/787.e4be6a14.chunk.js.map"
+    "static/media/twitch_icon.svg": "/LinktreeClone/static/media/twitch_icon.92c4af5f56dd8a04c3969d18f7568587.svg",
+    "main.a6361fa8.css.map": "/LinktreeClone/static/css/main.a6361fa8.css.map",
+    "main.1dd1cbe1.js.map": "/LinktreeClone/static/js/main.1dd1cbe1.js.map",
+    "787.599b8239.chunk.js.map": "/LinktreeClone/static/js/787.599b8239.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42bc978a.css",
-    "static/js/main.802d12d6.js"
+    "static/css/main.a6361fa8.css",
+    "static/js/main.1dd1cbe1.js"
   ]
 }
