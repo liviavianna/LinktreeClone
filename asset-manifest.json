@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LinktreeClone/static/css/main.a6361fa8.css",
-    "main.js": "/LinktreeClone/static/js/main.62724706.js",
+    "main.js": "/LinktreeClone/static/js/main.dcf7955e.js",
     "static/js/787.32dd32fa.chunk.js": "/LinktreeClone/static/js/787.32dd32fa.chunk.js",
     "static/media/discord_icon.svg": "/LinktreeClone/static/media/discord_icon.7ab6fb891a418dd01dc1096fd2bf1899.svg",
     "static/media/twitter_icon.svg": "/LinktreeClone/static/media/twitter_icon.ae3c323e7c3fb796a8cfc5905dea2daa.svg",
@@ -12,11 +12,11 @@
     "index.html": "/LinktreeClone/index.html",
     "static/media/twitch_icon.svg": "/LinktreeClone/static/media/twitch_icon.92c4af5f56dd8a04c3969d18f7568587.svg",
     "main.a6361fa8.css.map": "/LinktreeClone/static/css/main.a6361fa8.css.map",
-    "main.62724706.js.map": "/LinktreeClone/static/js/main.62724706.js.map",
+    "main.dcf7955e.js.map": "/LinktreeClone/static/js/main.dcf7955e.js.map",
     "787.32dd32fa.chunk.js.map": "/LinktreeClone/static/js/787.32dd32fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6361fa8.css",
-    "static/js/main.62724706.js"
+    "static/js/main.dcf7955e.js"
   ]
 }
