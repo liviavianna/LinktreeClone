@@ -15,12 +15,22 @@ const RedesSociais = () => {
         { icon: tiktok_logo, urlNome: 'Tiktok' , url: 'https://www.tiktok.com/@lilizok4' , id: 5 } ,
         { icon: discord_logo, urlNome: 'Discord' , url: '' , id: 6}
     ]
-    const LinksRedes = ListaRedes.map((props) => 
+    const LinksRedes = ListaRedes.map((props) => (
         <div key={props.id} className='conteudo_links'>
-           <a href={props.url}><img src={props.icon} />{props.urlNome}<button className='copy_link' onClick={() => {navigator.clipboard.writeText(props.url)}}></button></a>
+          <a href={props.url}>
+            <img src={props.icon} />
+            {props.urlNome}
+            <button
+              className='copy_link'
+              onClick={(e) => {
+                e.preventDefault(); 
+                navigator.clipboard.writeText(props.url);
+              }}
+            >
+            </button>
+          </a>
         </div>
-        
-    )
+      ));
     
     return (
         <>
